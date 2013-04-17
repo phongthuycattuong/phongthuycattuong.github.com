@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Phong Thủy Cát Tường]]></title>
+  <link href="http://phongthuycattuong.github.io/atom.xml" rel="self"/>
+  <link href="http://phongthuycattuong.github.io/"/>
+  <updated>2013-04-17T03:44:26-07:00</updated>
+  <id>http://phongthuycattuong.github.io/</id>
+  <author>
+    <name><![CDATA[Thien Thanh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test1]]></title>
+    <link href="http://phongthuycattuong.github.io/blog/2013/04/17/test1/"/>
+    <updated>2013-04-17T03:28:00-07:00</updated>
+    <id>http://phongthuycattuong.github.io/blog/2013/04/17/test1</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Some Awesome Title]]></title>
+    <link href="http://phongthuycattuong.github.io/blog/2013/04/17/some-awesome-title/"/>
+    <updated>2013-04-17T02:09:00-07:00</updated>
+    <id>http://phongthuycattuong.github.io/blog/2013/04/17/some-awesome-title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
