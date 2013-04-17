@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://phongthuycattuong.github.io
-title: Phong Thủy Cát Tường
-subtitle: by Chuyên Gia Phong Thủy & Địa Lý Thiên Thanh
-author: Thien Thanh
+url: http://yoursite.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
-description: Phong Thủy Cát Tường
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
